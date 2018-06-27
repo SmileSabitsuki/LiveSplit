@@ -13,6 +13,17 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
+      <Game>YUME NIKKI -DREAM DIARY-</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/SmileSabitsuki/Dream-Diary-Load-Remover/master/auto3.asl</URL>	 
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load remover(By SmileSabitsuki)</Description>
+    <Website>https://github.com/SmileSabitsuki/Dream-Diary-Load-Remover/blob/master/auto3.asl</Website>
+  </AutoSplitter>	 
+  <AutoSplitter>
+    <Games>    
       <Game>Touhou Bunkachou ~ Shoot the Bullet</Game>
     </Games>
     <URLs>
